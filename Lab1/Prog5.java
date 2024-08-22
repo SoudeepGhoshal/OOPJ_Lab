@@ -1,5 +1,4 @@
-//Write a program in Java to take first name and last name from and
-//print both in one line as last name followed by first name
+//Write a program in Java to take first name and last name from and print both in one line as last name followed by first name
 
 package Lab1;
 
