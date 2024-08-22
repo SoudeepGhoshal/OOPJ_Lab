@@ -1,5 +1,4 @@
-//Accept 10 numbers from command line and check how many of them
-//are even and how many are odd.
+//Accept 10 numbers from command line and check how many of them are even and how many are odd.
 
 package Lab2;
 
