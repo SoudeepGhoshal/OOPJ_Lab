@@ -1,5 +1,4 @@
-//Write a program to print the week day for the given day no. of the
-//current month using switch case statement
+//Write a program to print the week day for the given day no. of the current month using switch case statement
 
 package Lab1;
 
